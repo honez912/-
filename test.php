@@ -15,3 +15,5 @@ if($row=$res->fetch_assoc())
 }
 exit;
 ?>abc
+?>123
+
