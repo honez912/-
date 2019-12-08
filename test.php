@@ -13,4 +13,5 @@ if($row=$res->fetch_assoc())
 		echo "$value";
 	}
 }
+exit;
 ?>
